@@ -1,9 +1,9 @@
 //your JS code here. If required.
-document.addEventListener("DOMContentLoaded" function () {
+document.addEventListener("DOMContentLoaded", () => {
 	let body = document.body;
 	let pera = document.createElement("p");
-	pera.innerText="DOM load success
-		body.appendChild(body);
+	pera.innerText="DOM load success";
+		body.appendChild(pera);
 	
 	
 });
